@@ -1,7 +1,7 @@
 import math
 
 def encontrar_primos():
-    print("--- Buscador de Números Primos hasta N ---")
+    print("Buscador de Números Primos hasta N")
     
     try:
         n = int(input("Ingrese el valor de N: "))
