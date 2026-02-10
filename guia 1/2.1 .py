@@ -1,4 +1,4 @@
-'''  (EJERCICIO DE LLAMADA QUITAR LOS 3 APOSTROFES)
+'''  #(EJERCICIO DE LLAMADA QUITAR LOS 3 APOSTROFES)
 def realizar_llamada(numero_destino, minutos):
     print(f"llamando a {numero_destino}")
     
@@ -23,7 +23,7 @@ print(realizar_llamada("3145678911", 22))
 
 '''   #(EJERCICIO DE LLAMADA QUITAR LOS 3 APOSTROFES)
 
-''' EJERCICIO DE TORTILLA (B) QUITAR 3 APOSTROFES PARA PROBAR
+''' #EJERCICIO DE TORTILLA (B) QUITAR 3 APOSTROFES PARA PROBAR
 def cocinar_tortilla(huevos, aceite):
     print(" Preparar tortilla ")
     
@@ -46,7 +46,7 @@ def cocinar_tortilla(huevos, aceite):
 cocinar_tortilla(3, True)
 ''' #EJERCICIO DE TORTILLA (B) QUITAR 3 APOSTROFES PARA PROBAR
 
-''' EJERCICIO (C) DE LLANTA PINCHADA QUITAR LOS 3 APOSTROFES PARA PROBAR
+''' #EJERCICIO (C) DE LLANTA PINCHADA QUITAR LOS 3 APOSTROFES PARA PROBAR
 def arreglar_llanta():
     print("reparacion de llanta")
     
@@ -74,7 +74,7 @@ def arreglar_llanta():
 print(arreglar_llanta())
 ''' #EJERCICIO (C) DE LLANTA PINCHADA QUITAR LOS 3 APOSTROFES PARA PROBAR
 
-''' EJERCICIO DE FRITAR HUEVO ( EJERCICIO D) QUITAR LOS 3 APOSTROFES PARA PROBAR
+''' #EJERCICIO DE FRITAR HUEVO ( EJERCICIO D) QUITAR LOS 3 APOSTROFES PARA PROBAR
 def fritar_huevo():
     print("Fritar huevo")
     
