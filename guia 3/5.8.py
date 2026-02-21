@@ -1,9 +1,9 @@
-import random
+import random #Vamos a generar numeros aleatorios para no tener que digitar 100 numeros
 
 nums_pos = []
 nums_neg = []
 
-opcion = input("¿Deseas generar los 100 números aleatoriamente? (si/no): ").strip().lower()
+opcion = input("¿Deseas generar los 100 números aleatoriamente? (si/no): ").strip().lower() #aun asi dejamos la opcion para ingresarlos manualmente
 
 for i in range(1, 101):
     if opcion == "si":
